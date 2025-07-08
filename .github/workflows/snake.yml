@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"  # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -12,17 +12,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Snake (dark GitHub theme, green snake)
+      - name: Generate Snake (2024 only, green on dark GitHub theme)
         uses: Platane/snk@v3
         with:
           github_user_name: Rajbhandari107
           outputs: |
             ./output/github-contribution-grid-snake.svg
-          # Use GitHub-dark theme
           theme: github-dark
+          from: 2024-01-01
+          to: 2024-12-31
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 Generated green snake on dark theme"
+          message: "🐍 Generated 2024-only green snake"
           add: "./output/github-contribution-grid-snake.svg"
