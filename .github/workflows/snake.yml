@@ -2,25 +2,26 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    - cron: "0 0 * * *"  # runs daily at midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Snake Game
+      - name: Generate Snake Game SVG (dark theme)
         uses: Platane/snk@v3
         with:
           github_user_name: Rajbhandari107
           outputs: |
             ./output/github-contribution-grid-snake.svg
+          theme: dark  # <-- add this line for dark theme
 
-      - name: Push to GitHub
+      - name: Commit and push SVG
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generated snake contribution graph"
+          message: "Generated snake contribution graph (dark theme)"
           add: "./output/github-contribution-grid-snake.svg"
