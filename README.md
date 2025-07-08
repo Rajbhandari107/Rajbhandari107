@@ -56,5 +56,36 @@
 
 ![snake gif](https://raw.githubusercontent.com/Rajbhandari107/Rajbhandari107/main/output/github-contribution-grid-snake.svg)
 
+## 🚀 Space Command Dashboard
+- 🚀 Mission: Code Exploration
+- 👾 Enemies Defeated: 100 bugs squashed
+- 🔋 Energy: 85%
+- 🌐 Current Location: GitHub Galaxy
 
+---
+
+### 🎲 Random Coding Tip
+
+> 🤖 Write code as if the person who will maintain it is a violent psychopath who knows where you live.
+
+---
+
+### 🔍 Hidden Easter Egg
+
+<details>
+  <summary>Click for a secret!</summary>
+  
+  I once coded for 24 hours straight to finish a project! 🚀
+</details>
+
+---
+
+### 🎨 Color Palette of My Projects
+
+| Color | HEX    | Usage             |
+|-------|--------|-------------------|
+| ![#61dafb](https://via.placeholder.com/15/61dafb/000000?text=+) | #61DAFB | React projects    |
+| ![#ff6347](https://via.placeholder.com/15/ff6347/000000?text=+) | #FF6347 | Website accents   |
+
+---
 
