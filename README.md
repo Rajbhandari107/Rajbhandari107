@@ -46,6 +46,10 @@
 ### ⚡ Fun Fact
 > I use 🧠 more than 💪, but still trying to gain both!
 
+
+
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajbhandari107&show_icons=true&theme=radical)
+
 ---
 
 ## 🐍 GitHub Contribution Snake
@@ -53,5 +57,4 @@
 ![snake gif](https://raw.githubusercontent.com/Rajbhandari107/Rajbhandari107/main/output/github-contribution-grid-snake.svg)
 
 
-![Rajbhandari107's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Rajbhandari107&theme=dark)
 
