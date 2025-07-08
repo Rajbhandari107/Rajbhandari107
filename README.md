@@ -50,5 +50,4 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Rajbhandari107/Rajbhandari107/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/Rajbhandari107/Rajbhandari107/main/output/github-contribution-grid-snake.svg)
