@@ -45,6 +45,8 @@
 
 ### ⚡ Fun Fact
 > I use 🧠 more than 💪, but still trying to gain both!
+> El psy congroo
+
 
 
 
