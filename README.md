@@ -1,6 +1,6 @@
 <!-- Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajbhandari107.Rajbhandari107" alt="Visitor Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Rajbhandari107&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <!-- Typing SVG Header -->
@@ -44,11 +44,8 @@
 ---
 
 ### ⚡ Fun Fact
-> I use 🧠 more than 💪, but still trying to gain both!
+> I use 🧠 more than 💪, but still trying to gain both!  
 > El psy congroo
-
-
-
 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajbhandari107&show_icons=true&theme=radical)
 
@@ -57,5 +54,3 @@
 ## 🐍 GitHub Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Rajbhandari107/Rajbhandari107/main/output/github-contribution-grid-snake.svg)
-
-
