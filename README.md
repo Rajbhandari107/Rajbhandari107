@@ -1,7 +1,4 @@
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Rajbhandari107&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 <!-- Typing SVG Header -->
 <h1 align="center">
