@@ -7,11 +7,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
-<!-- Dynamic Quote (changes on every profile open) -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -19,7 +14,12 @@
 - 🎓 B.Tech in CSE with specialization in AI & ML at SRM IST  
 - 🧠 Cybersecurity & AI enthusiast  
 - 🛠️ Exploring full stack development & ethical hacking  
-- 🎯 Currently improving: Python, SQLi, Web Security
+- 🎯 Currently improving: Python, SQLi, Web Security  
+
+<!-- Dynamic Quote Section -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
 ---
 
