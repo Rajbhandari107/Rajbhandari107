@@ -16,6 +16,7 @@
 - 🛠️ Exploring full stack development & ethical hacking  
 - 🎯 Currently improving: Python, SQLi, Web Security  
 
+---
 <!-- Dynamic Quote Section -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
